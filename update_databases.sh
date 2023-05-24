@@ -1,4 +1,5 @@
-conda activate BTG_finders
+#!/usr/bash
+#conda activate BTG_finders
 
 mkdir /home/student/BTG/dbs/
 cd /home/student/BTG/dbs/
