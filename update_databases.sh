@@ -1,7 +1,8 @@
 #!/usr/bash
 #conda activate BTG_finders
+mkdir -p /home/student/day8_pipelines/
 
-mkdir /home/student/BTG/dbs/
+mkdir -p /home/student/BTG/dbs/
 cd /home/student/BTG/dbs/
 
 git clone https://bitbucket.org/genomicepidemiology/virulencefinder_db.git
