@@ -1,0 +1,14 @@
+https://github.com/rrwick/Bandage/releases/download/v0.8.1/Bandage_Ubuntu_dynamic_v0_8_1.zip
+https://data.broadinstitute.org/igv/projects/downloads/2.17/IGV_Linux_2.17.2_WithJava.zip
+https://github.com/sanger-pathogens/Artemis/releases/download/v18.2.0/artemis-unix-release-18.2.0.tar.gz
+
+https://github.com/rambaut/figtree/releases/download/v1.4.4/FigTree_v1.4.4.tgz
+https://www.jalview.org/getdown/release/install4j/1.8/jalview-2_11_3_0-unix-java_8.sh
+https://www.megasoftware.net/active_download
+sudo dpkg -i mega_11.0.13-1_amd64.deb
+
+sudo apt install spyder
+
+https://enasequence.github.io/sub-file-uploader/WebinUploader.jnlp
+https://ftp.ebi.ac.uk/pub/databases/ena/tools/ena-file-downloader.zip
+https://github.com/enasequence/enaBrowserTools/archive/refs/tags/v1.7.tar.gz
