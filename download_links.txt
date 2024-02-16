@@ -12,3 +12,7 @@ sudo apt install spyder
 https://enasequence.github.io/sub-file-uploader/WebinUploader.jnlp
 https://ftp.ebi.ac.uk/pub/databases/ena/tools/ena-file-downloader.zip
 https://github.com/enasequence/enaBrowserTools/archive/refs/tags/v1.7.tar.gz
+
+
+
+wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/run/ERR251/ERR2512030/20104377_S4_L999_R2_001.fastq.gz
