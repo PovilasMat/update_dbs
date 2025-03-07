@@ -1,7 +1,5 @@
 #!/usr/bash
 
-mkdir -p /home/gebt/BTG/Day8_pipelines/
-
 mkdir -p /home/gebt/BTG/Day8_pipelines/dbs/
 cd /home/gebt/BTG/Day8_pipelines/dbs/
 
